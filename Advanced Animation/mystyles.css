@@ -1,0 +1,118 @@
+body {
+  background-color: #2B4C6F;
+}
+
+  #wrapperDiv{
+    width:906px;
+    height: 800px;
+    background-color: #041D37;
+    margin: auto;
+  }
+
+  #headerDiv{
+    width:900px;
+    height:100px;
+    border: solid black 3px;
+    background-color: #133253;
+
+    text-align: string;
+    text-shadow: black;
+    color: #FFCCAA;
+  }
+
+  #navDiv{
+    width: 900px;
+    height: 50px;
+    border: solid black 3px;
+    background-color: black;
+    margin: auto;
+  }
+
+  #bodyDiv{
+    width: 880px;
+    height:650px;
+    border: solid black 3px;
+    background-color: #4A6A8A;
+    text-align: left;
+    padding: 10px;
+
+  }
+  #footerDiv{
+    width: 900px;
+    height: 150px;
+    border: solid black 3px;
+    background-color: #738CA6;
+    margin: auto;
+    text-align: center;
+
+  }
+  .buttonDiv{
+    width: 110px;
+    height: 15px;
+    border: solid black 1px;
+    background-color: #AA7439;
+    float:left;
+    margin: 3px;
+    padding: 15px;
+    margin-left: 28px;
+    text-align:center;
+    border-radius: 12px;
+    color: black
+  }
+  .buttonDiv:hover{
+    background-color: #804315;
+
+  }
+#hairlessbaby{
+  height: 400px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: 10px;
+  margin-top: 10px;
+  width: 50%;
+  border-radius: 12px;
+  float: left;
+}
+#grouppengu{
+  height: 300px;
+  width: 750px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 50%;
+  border-radius: 12px;
+}
+.column {
+  float: left;
+  width: 45%;
+  margin-left: 30px;
+  padding: 5px;
+
+}
+
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+
+}
+
+#pengutypes {
+  height: 400px;
+  width: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+#babypenguin {
+  margin: left
+  height: 100px;
+  width: 100px;
+  margin-left: 10px;
+  margin-right: auto;
+  text-align: string;
+}
