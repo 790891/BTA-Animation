@@ -116,3 +116,20 @@ body {
   margin-right: auto;
   text-align: string;
 }
+#seal{
+  margin: left
+  height: 100px;
+  width: 100px;
+}
+
+#whale{
+  margin: left
+  height: 100px;
+  width: 100px;
+}
+
+#eagle{
+  margin: left
+  height: 100px;
+  width: 100px;
+}
